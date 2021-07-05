@@ -5,9 +5,7 @@
 pUtility provides some unique features not seen in regular utility tooling. 
 
 * Cleverbot will communicate on your behave and respond to your team and or the enemy
-  * Script will create a unique instance on load and keep track of messages to respond accordinly
-* Will feature more soon
-  * E.g. Motivational speeches on various in-game events.
+  * The endpoint will create a unique instance, the data is retrieved through a proxy (Headers such as cookies / sessions are stored) as they are used on the outgoing request.
 
 ![image](https://user-images.githubusercontent.com/9116413/124369022-adc45700-dc67-11eb-9c09-b5edbe5a965e.png)
 
